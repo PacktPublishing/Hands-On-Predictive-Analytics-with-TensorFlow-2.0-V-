@@ -35,7 +35,7 @@ Spyder
 
 
 ## Related Products
-* [Hands-On Deep Learning with TensorFlow 2.0 [Video]] https://www.packtpub.com/application-development/hands-deep-learning-tensorflow-20-video)
+* [Hands-On Deep Learning with TensorFlow 2.0 [Video](https://www.packtpub.com/application-development/hands-deep-learning-tensorflow-20-video)
 
 * [Hands-On Predictive Analytics with Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-predictive-analytics-python)
 
