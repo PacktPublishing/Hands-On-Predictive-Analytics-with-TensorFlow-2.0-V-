@@ -1,8 +1,7 @@
 # Hands-On-Predictive-Analytics-with-TensorFlow-2.0-V-
-This is the code repository for [Hands-On-Predictive-Analytics-with-TensorFlow-2.0-V-] , Published by Packt
-(https://www.packtpub.com/data/hands-on-predictive-analytics-with-tensorflow-2-0-video), 
+This is the code repository for [Hands-On-Predictive-Analytics-with-TensorFlow-2.0-V-] (https://www.packtpub.com/data/hands-on-predictive-analytics-with-tensorflow-2-0-video), published by [Packt](https://www.packtpub.com/?utm_source=github). 
 
-published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+It contains all the supporting project files necessary to work through the video course from start to finish.
 
 ## About the Video Course
 In this course, you’ll learn the concepts of predictive modeling and implement various algorithms to carry out predictive analysis. You’ll get hands-on experience and learn about the stages involved in producing complete predictive analytics solutions.	
